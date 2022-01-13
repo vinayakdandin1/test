@@ -4,6 +4,7 @@ function index() {
     return (
         <div>
             <h1>Hello world changes in main</h1>
+            <p>Checking git rebase </p>
         </div>
     )
 }
